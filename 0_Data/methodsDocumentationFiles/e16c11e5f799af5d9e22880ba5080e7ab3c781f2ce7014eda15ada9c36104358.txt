@@ -1,0 +1,6 @@
+
+         * Offset all child views attached to the parent RecyclerView by dx pixels along
+         * the horizontal axis.
+         *
+         * @param dx Pixels to offset by
+         

@@ -1,0 +1,7 @@
+
+         * Returns {@link #STRONG_AUTH_NOT_REQUIRED} if strong authentication is not required,
+         * otherwise returns a combination of {@link StrongAuthFlags} indicating why strong
+         * authentication is required.
+         *
+         * @param userId the user for whom the state is queried.
+         

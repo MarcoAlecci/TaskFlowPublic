@@ -1,0 +1,11 @@
+
+     * Determine whether this CaptureRequest is equal to another CaptureRequest.
+     *
+     * <p>A request is considered equal to another is if it's set of key/values is equal, it's
+     * list of output surfaces is equal, the user tag is equal, and the return values of
+     * isReprocess() are equal.</p>
+     *
+     * @param other Another instance of CaptureRequest.
+     *
+     * @return True if the requests are the same, false otherwise.
+     

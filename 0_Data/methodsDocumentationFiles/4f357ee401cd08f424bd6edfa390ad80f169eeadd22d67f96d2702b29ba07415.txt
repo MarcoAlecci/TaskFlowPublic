@@ -1,0 +1,11 @@
+
+     * Acquires the lock exclusively (blocking), marks it as closed, then releases the lock.
+     *
+     * <p>Marking a lock as closed will fail all further acquisition attempts;
+     * it will also immediately unblock all other threads currently trying to acquire a lock.</p>
+     *
+     * <p>This operation is idempotent; calling it more than once has no effect.</p>
+     *
+     * @throws IllegalStateException
+     *          if an attempt is made to {@code close} while this thread has a lock acquired
+     

@@ -1,0 +1,5 @@
+
+         * RecyclerView calls this method to notify LayoutManager that scroll state has changed.
+         *
+         * @param state The new scroll state for RecyclerView
+         

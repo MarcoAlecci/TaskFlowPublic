@@ -1,0 +1,6 @@
+
+         * Returns offset of the RecyclerView's text baseline from the its top boundary.
+         *
+         * @return The offset of the RecyclerView's text baseline from the its top boundary; -1 if
+         * there is no baseline.
+         

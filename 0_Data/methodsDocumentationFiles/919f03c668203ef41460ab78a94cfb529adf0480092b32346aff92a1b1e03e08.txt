@@ -1,0 +1,5 @@
+
+         * Check if the RecyclerView is configured to clip child views to its padding.
+         *
+         * @return true if this RecyclerView clips children to its padding, false otherwise
+         

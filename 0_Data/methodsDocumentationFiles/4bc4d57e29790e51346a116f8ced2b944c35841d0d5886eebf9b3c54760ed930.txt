@@ -1,0 +1,5 @@
+
+     * Retrieve the current result code, as set by the previous receiver.
+     *
+     * @return int The current result code.
+     

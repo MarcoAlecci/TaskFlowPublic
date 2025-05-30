@@ -1,0 +1,4 @@
+
+             * Returns true if {@link #ENABLE_WRITE_AHEAD_LOGGING} flag is set
+             * @hide
+             

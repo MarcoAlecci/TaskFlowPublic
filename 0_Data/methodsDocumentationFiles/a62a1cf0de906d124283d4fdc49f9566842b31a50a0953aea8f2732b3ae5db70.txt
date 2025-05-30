@@ -1,0 +1,5 @@
+
+     * Updates the framework with a new {@link ImsFeatureConfiguration} containing the updated
+     * features, that this {@link ImsService} supports. This may trigger the framework to add/remove
+     * new ImsFeatures, depending on the configuration.
+     

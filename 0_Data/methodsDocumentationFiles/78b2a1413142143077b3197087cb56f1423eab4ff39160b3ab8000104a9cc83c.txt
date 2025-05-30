@@ -1,0 +1,17 @@
+
+     * Change the current result code of this broadcast; only works with
+     * broadcasts sent through
+     * {@link Context#sendOrderedBroadcast(Intent, String)
+     * Context.sendOrderedBroadcast}.  Often uses the
+     * Activity {@link android.app.Activity#RESULT_CANCELED} and
+     * {@link android.app.Activity#RESULT_OK} constants, though the
+     * actual meaning of this value is ultimately up to the broadcaster.
+     *
+     * <p class="note">This method does not work with non-ordered broadcasts such
+     * as those sent with {@link Context#sendBroadcast(Intent)
+     * Context.sendBroadcast}</p>
+     *
+     * @param code The new result code.
+     *
+     * @see #setResult(int, String, Bundle)
+     

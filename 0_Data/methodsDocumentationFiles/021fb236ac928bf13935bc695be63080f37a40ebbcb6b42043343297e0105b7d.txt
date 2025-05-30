@@ -1,0 +1,15 @@
+
+         * Traverses the ancestors of the given view and returns the item view that contains it
+         * and also a direct child of the LayoutManager.
+         * <p>
+         * Note that this method may return null if the view is a child of the RecyclerView but
+         * not a child of the LayoutManager (e.g. running a disappear animation).
+         *
+         * @param view The view that is a descendant of the LayoutManager.
+         *
+         * @return The direct child of the LayoutManager which contains the given view or null if
+         * the provided view is not a descendant of this LayoutManager.
+         *
+         * @see RecyclerView#getChildViewHolder(View)
+         * @see RecyclerView#findContainingViewHolder(View)
+         

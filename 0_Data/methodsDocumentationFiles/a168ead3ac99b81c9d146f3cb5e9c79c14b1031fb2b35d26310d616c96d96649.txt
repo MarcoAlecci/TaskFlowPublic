@@ -1,0 +1,5 @@
+
+     * Trigger the tear down of the embedded view hierarchy and release the SurfaceControl.
+     * This will result in onDispatchedFromWindow being dispatched to the embedded view hierarchy
+     * and render the object unusable.
+     

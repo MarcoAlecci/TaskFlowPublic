@@ -1,0 +1,6 @@
+
+     * Returns the flag indicating whether or not this receiver should
+     * abort the current broadcast.
+     *
+     * @return True if the broadcast should be aborted.
+     

@@ -1,0 +1,7 @@
+
+         * Returns extras which provide additional application-specific information about the
+         * action, or null if none. These arguments are meant to be consumed by a
+         * {@link MediaController} if it knows how to handle them.
+         *
+         * @return Optional arguments for the {@link CustomAction}.
+         

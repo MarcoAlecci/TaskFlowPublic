@@ -1,0 +1,5 @@
+
+     * Returns the type of the device.
+     *
+     * @return the device's type
+     

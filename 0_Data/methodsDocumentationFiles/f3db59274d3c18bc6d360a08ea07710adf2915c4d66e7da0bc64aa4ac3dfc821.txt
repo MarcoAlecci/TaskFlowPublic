@@ -1,0 +1,15 @@
+
+     * Change the current result data of this broadcast; only works with
+     * broadcasts sent through
+     * {@link Context#sendOrderedBroadcast(Intent, String)
+     * Context.sendOrderedBroadcast}.  This is an arbitrary
+     * string whose interpretation is up to the broadcaster.
+     *
+     * <p><strong>This method does not work with non-ordered broadcasts such
+     * as those sent with {@link Context#sendBroadcast(Intent)
+     * Context.sendBroadcast}</strong></p>
+     *
+     * @param data The new result data; may be null.
+     *
+     * @see #setResult(int, String, Bundle)
+     

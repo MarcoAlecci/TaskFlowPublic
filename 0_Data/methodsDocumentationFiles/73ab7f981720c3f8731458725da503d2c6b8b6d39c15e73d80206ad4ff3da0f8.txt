@@ -1,0 +1,6 @@
+
+         * Scroll to the specified adapter position.
+         *
+         * Actual position of the item on the screen depends on the LayoutManager implementation.
+         * @param position Scroll to this adapter position.
+         

@@ -1,0 +1,7 @@
+
+         * Gets if the collection item is a heading. For example, section
+         * heading, table header, etc.
+         *
+         * @return If the item is a heading.
+         * @deprecated Use {@link AccessibilityNodeInfo#isHeading()}
+         

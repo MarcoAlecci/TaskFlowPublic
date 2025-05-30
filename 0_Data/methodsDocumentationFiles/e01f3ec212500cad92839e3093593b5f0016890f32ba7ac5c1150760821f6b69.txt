@@ -1,0 +1,5 @@
+
+         * Updates the cache color hint of all known views.
+         *
+         * @param color The new cache color hint.
+         

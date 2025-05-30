@@ -1,0 +1,8 @@
+
+         * Returns the client state from the {@link FillResponse} used to generate this event.
+         *
+         * <p><b>Note: </b>the state is associated with the app that was autofilled in the previous
+         * {@link
+         * AutofillService#onFillRequest(FillRequest, android.os.CancellationSignal, FillCallback)},
+         * which is not necessary the same app being autofilled now.
+         

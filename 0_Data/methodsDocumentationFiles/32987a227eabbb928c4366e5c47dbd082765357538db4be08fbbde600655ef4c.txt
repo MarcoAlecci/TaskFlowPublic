@@ -1,0 +1,5 @@
+
+         * Sets the number of copies.
+         *
+         * @param copies The number of copies.
+         

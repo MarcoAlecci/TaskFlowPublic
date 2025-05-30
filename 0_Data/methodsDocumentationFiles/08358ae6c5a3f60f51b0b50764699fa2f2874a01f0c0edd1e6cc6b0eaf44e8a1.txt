@@ -1,0 +1,7 @@
+
+         * Returns whether LayoutManager is currently attached to a RecyclerView which is attached
+         * to a window.
+         *
+         * @return True if this LayoutManager is controlling a RecyclerView and the RecyclerView
+         * is attached to window.
+         

@@ -1,0 +1,3 @@
+
+     * Destroy this ScriptGroup and all Closures in it
+     

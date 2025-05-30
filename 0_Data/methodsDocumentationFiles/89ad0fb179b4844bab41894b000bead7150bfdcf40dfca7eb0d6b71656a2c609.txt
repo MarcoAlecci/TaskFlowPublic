@@ -1,0 +1,9 @@
+
+     * Returns the number of components that form a color value according
+     * to this color space's color model.
+     *
+     * @return An integer between 1 and 4
+     *
+     * @see Model
+     * @see #getModel()
+     

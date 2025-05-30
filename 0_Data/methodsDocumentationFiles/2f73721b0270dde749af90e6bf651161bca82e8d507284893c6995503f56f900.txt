@@ -1,0 +1,9 @@
+
+         * Gets the value associated with the specified axis.
+         *
+         * @param axis The axis identifier for the axis value to retrieve.
+         * @return The value associated with the axis, or 0 if none.
+         *
+         * @see MotionEvent#AXIS_X
+         * @see MotionEvent#AXIS_Y
+         

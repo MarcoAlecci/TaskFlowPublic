@@ -1,0 +1,5 @@
+
+         * Get the metadata Bundle used by this Builder.
+         *
+         * <p>The returned Bundle is shared with this Builder.
+         

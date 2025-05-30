@@ -1,0 +1,17 @@
+
+     * Change the current result extras of this broadcast; only works with
+     * broadcasts sent through
+     * {@link Context#sendOrderedBroadcast(Intent, String)
+     * Context.sendOrderedBroadcast}.  This is a Bundle
+     * holding arbitrary data, whose interpretation is up to the
+     * broadcaster.  Can be set to null.  Calling this method completely
+     * replaces the current map (if any).
+     *
+     * <p><strong>This method does not work with non-ordered broadcasts such
+     * as those sent with {@link Context#sendBroadcast(Intent)
+     * Context.sendBroadcast}</strong></p>
+     *
+     * @param extras The new extra data map; may be null.
+     *
+     * @see #setResult(int, String, Bundle)
+     

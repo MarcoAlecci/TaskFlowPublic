@@ -1,0 +1,5 @@
+
+         * Gets if the collection item is selected.
+         *
+         * @return If the item is selected.
+         

@@ -1,0 +1,3 @@
+
+         * Returns the refresh rate in frames per second.
+         

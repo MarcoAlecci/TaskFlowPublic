@@ -1,0 +1,11 @@
+
+     * Retrieve the current result extra data, as set by the previous receiver.
+     * Any changes you make to the returned Map will be propagated to the next
+     * receiver.
+     *
+     * @param makeMap If true then a new empty Map will be made for you if the
+     *                current Map is null; if false you should be prepared to
+     *                receive a null Map.
+     *
+     * @return Map The current extras map.
+     

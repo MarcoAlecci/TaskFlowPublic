@@ -1,0 +1,7 @@
+
+         * Gets whether this media size is in portrait which is the
+         * height is greater or equal to the width.
+         *
+         * @return True if the media size is in portrait, false if
+         * it is in landscape.
+         

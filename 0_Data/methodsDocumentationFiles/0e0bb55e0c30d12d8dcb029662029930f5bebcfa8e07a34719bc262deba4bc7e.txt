@@ -1,0 +1,4 @@
+
+     * Clears the flag indicating that this receiver should abort the current
+     * broadcast.
+     

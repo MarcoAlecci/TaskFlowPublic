@@ -1,0 +1,4 @@
+
+         * Returns the MetricAffectingSpan underlying this one, or the one
+         * underlying it if it too is a Passthrough.
+         

@@ -1,0 +1,4 @@
+
+         * Gets the volume of the {@link VolumeShaper.State}.
+         * @return linear volume between 0.f and 1.f.
+         

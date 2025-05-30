@@ -1,0 +1,6 @@
+
+     * Retrieve the current result data, as set by the previous receiver.
+     * Often this is null.
+     *
+     * @return String The current result data; may be null.
+     

@@ -1,0 +1,4 @@
+
+         * @return true if unlocking with trust alone is allowed for {@code userId} by the current
+         * strong authentication requirements.
+         

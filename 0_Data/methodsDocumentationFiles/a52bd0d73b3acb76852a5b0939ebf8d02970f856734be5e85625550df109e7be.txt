@@ -1,0 +1,3 @@
+
+         * @return The number of routes in this group
+         
